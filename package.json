@@ -1,0 +1,24 @@
+{
+  "name": "fullstackexample",
+  "version": "1.0.0",
+  "description": "Attempting a full stack task with node and angular",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/utkarshrai/Full_Stack_example.git"
+  },
+  "author": "Utkarsh Rai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/utkarshrai/Full_Stack_example/issues"
+  },
+  "homepage": "https://github.com/utkarshrai/Full_Stack_example#readme",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  }
+}
